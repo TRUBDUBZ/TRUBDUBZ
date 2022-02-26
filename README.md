@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Merks
+- 👋 Hi, I’m @trub
 - 👀 I’m interested in ... web3/solidity/pentesting
 - 🌱 I’m currently learning ... solidity,python,pentesting/basics
 - 💞️ I’m looking to collaborate on ... looking to make my first contributions
