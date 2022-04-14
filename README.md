@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trub
-- 👀 I’m interested in ... Web3 / Solidity / Sec 
-- 🌱 I’m currently learning ... Solidity, Python, Pentesting, and wrapping up on "Crypto Zombies".
-- 💞️ I’m looking to collaborate on ... Web3 projects, NFT projects, or really anything involving Solidity!
+- 👀 I’m interested in ... Blockchain, audio, bounties/CTFs/wargames, and full stack web 3 development. (not in any order)
+- 🌱 I’m currently learning ... JavaScript, Solidity, Python, HTML, CSS, Linux, and basic cybersec.
+- 💞️ I’m looking to collaborate on ... blockchain, web 3 projects, pentesting, research, writing, or audio engineering. Anything really.
 - 📫 How to reach me ... best is probably e-mail @marcusdiedrich1@icloud.com / i'm also on Discord - TRUBDUBZ#4053 and Telegram - MarcusDiedrich
 <!---
 TRUBDUBZ/TRUBDUBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
