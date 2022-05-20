@@ -1,9 +1,33 @@
--  <h1>👋 Hi, I’m @trub</h1>
+ # 👋 Hi, I’m trub 
  
--  <h2>🧙‍♂️ I’m interested in ...</h2>blockchain, decentralization, Linux, audio, bounties/CTFs/wargames, cryptocurrency investing/trading, and web 3 coding
+## 🧙‍♂️ I’m interested in ... 
+  
+  - computer science
+  - privacy / anonymity
+  - hardening/securing devices, data, & networks
+  - OSINT/GEOINT
+  - Linux distros (debian)
+  - ZSH/BASH 
+  - network infrastructure infosec etc
 
--  <h2>🧠 I’m currently learning ...</h2> JavaScript, Solidity, Python, HTML, CSS, Linux, and basic cybersec</h2>
+## 🧠 I’m currently learning ... 
+ 
+ - infoSec 
+ - computer science
+ - JavaScript/Solidity
+ - Linux
+ - ZSH & BASH
+ - networking
+ - doing the #100DaysOfCode Challenge on twitter
+ - The Mising Semester - Computer science semester for free online through MIT 
 
-- <h2>🤝 I’m looking to collaborate on ...</h2> blockchain, web 3 projects, pentesting, research, writing, or audio engineering. Anything really
+## 🤝 I’m looking to collaborate on ...
+   
+   - security research, website development, study resources, writing, and basics with HTML, CSS, and JS 
+   - anything really just looking to gain experience and get my foot in the door anywhere I can
 
-- <h2>📫 How to reach me ...</h2> best is probably e-mail @marcusdiedrich1@icloud.com / i'm also on Discord - TRUBDUBZ#4053 and Telegram - MarcusDiedrich
+## 📫 How to reach me ...
+  
+  - best is probably e-mail : marcusdiedrich1@protonmail.com 
+  - i'm also on Discord - TRUBDUBZ#4053
+  - and twitter @marcusdiedrich1 
