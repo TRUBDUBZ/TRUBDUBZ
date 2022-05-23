@@ -12,7 +12,7 @@
 
 ## 🧠 I’m currently learning ... 
  
- - infoSec 
+ - infoSec
  - computer science
  - JavaScript / Solidity
  - Linux
@@ -23,7 +23,7 @@
 
 ## 🤝 I’m looking to collaborate on ...
    
- - security research, website development, study resources, writing, and basics with HTML, CSS, and JS 
+ - security research, website development, study resources, writing, and basics with, JavaScript
  - anything really just looking to gain experience and get my foot in the door anywhere I can
 
 ## 📫 How to reach me ...
