@@ -1,9 +1,7 @@
 # 👋 Hi, I’m trub 
 
-<!--START_SECTION:badges-->
-<script src="https://tryhackme.com/badge/887143"></script>
-<!--END_SECTION:badges-->
- 
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
 ## 🧙‍♂️ I’m interested in ... 
   
  - computer science
