@@ -1,19 +1,17 @@
-name: TryHackMe Update Badge
-
-on:
-  schedule:
-    # Make it run every 24 hour
-    - cron: '0 0 * * *'
-  workflow_dispatch: 
-jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          # Replace with your tryhackme username
-          username: "Merk0"
-          GITHUB_TOKEN: ${{secrets.GITHUBTOKEN}}
-
+- name: TryHackMe Badge Workflow
+  # You may pin to the exact commit or the version.
+  # uses: p4p1/tryhackme-badge-workflow@f9d6595171f48af5c510b9987b049a6fcd89c50b
+  uses: p4p1/tryhackme-badge-workflow@1.0.0
+  with:
+    # Path of the image file you want to update
+    image_path: # optional, default is ./assets/thm_propic.png
+    # Try Hack Me username
+    username: "Merko"
+    # username of committing bot
+    committer_username: # optional, default is thm-p4p1-bot
+    # email of committing bot
+    committer_email: # optional, default is p4p1@thm.bot
+    # message of committing bot
+    commit_message: # optional, default is Updated THM profile badge
+    # GitHub token
+    GITHUB_TOKEN: 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
