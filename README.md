@@ -1,4 +1,7 @@
 # 👋 Hi, I’m trub 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
  
 ## 🧙‍♂️ I’m interested in ... 
   
