@@ -1,4 +1,6 @@
 # 👋 Hi, I’m trub 
+
+<script src="https://tryhackme.com/badge/887143"></script>
  
 ## 🧙‍♂️ I’m interested in ... 
   
