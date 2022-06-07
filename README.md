@@ -1,7 +1,5 @@
 # 👋 Hi, I’m trub 
 
-![tryhackme stats](https://raw.githubusercontent.com/TRUBDUBZ/TRUBDUBZ/master/assets/thm_propic.png)
-
 ## 🧙‍♂️ I’m interested in ... 
   
  - computer science
