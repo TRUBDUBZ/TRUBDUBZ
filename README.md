@@ -1,8 +1,6 @@
+# 👋 Hi!
 
-# 👋 Hi, I’m trub  
 
- 
-                                  
          ~~~~-~~~-~~-_--~~~~~~~~~~~
                      ▀
                   ▀▀▀▀▀▀▀▀ 
@@ -11,7 +9,10 @@
               █▄▄██▀▀█▀▀▀█▀▀▀▀           '/|\` 
                 ▀▀█▀▀▀█▀▀▀
              \____▀___▀_____/        
-      
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ)](https://git.io/streak-stats)
 
 
 ### 🧙‍♂️ I’m interested in ... 
