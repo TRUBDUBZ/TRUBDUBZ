@@ -1,21 +1,13 @@
 # Hello, World! 👋 
 
  <a href="https://git.io/streak-stats"></a>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham&style"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham"/>
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura"/>
-
- <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark&"/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
-
- 
-
-
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura"/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,3 +43,8 @@
  - best is probably e-mail : **marcusdiedrich1@protonmail.com** 
  - I'm also on Discord - **TRUBDUBZ#4053**
  - and [Twitter](https://twitter.com/marcusdiedrich1)
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
+
