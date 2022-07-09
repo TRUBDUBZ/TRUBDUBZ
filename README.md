@@ -1,26 +1,11 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 # Hello, World! 👋
-
-
-         ~~~~-~~~-~~-_--~~~~~~~~~~~                                         
-                     ▀
-                  ▀▀▀▀▀▀▀▀ 
-                ▀▀▀▀▀▀▀▀▀▀▀▀▀▄            .\/, 
-               ▀ 👀|▀▀▀▀▀▀▀▀▀▀▀▄##@##@###( @ -)
-              █▄▄██▀▀█▀▀▀█▀▀▀▀           '/|\` 
-                ▀▀█▀▀▀█▀▀▀
-             \____▀___▀____/             
-                                                                     ~~~-~~~-~~-_--~~~~~~~~~~~-----
-                                                                                ▀
-                                                                             ▀▀▀▀▀▀▀▀ 
-                                                                          ▀▀▀▀▀▀▀▀▀▀▀▀▀▄             .\/, 
-                                                                         ▀ 👀|▀▀▀▀▀▀▀▀▀▀▀▄##@##@###**( @ -)
-                                                                          ▄▄██▀▀█▀▀▀█▀▀▀            '/|\` 
-                                                                           ▀▀█▀▀▀█▀▀  
-                                                                          \__▀___▀____/            
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ)](https://git.io/streak-stats)
 
 
 ## 🧙‍♂️ I’m interested in ... 
