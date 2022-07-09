@@ -1,12 +1,28 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 # Hello, World! 👋
+<div>
+<div> 
+ <a href="https://git.io/streak-stats"></a>
+ <img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham"/>
+</div>
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura"/>
+</div>
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+<img align="top-left" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark&"/>
+ </div>
+ <div>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
+ </div>
+ </div>
+ 
 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧙‍♂️ I’m interested in ... 
  
