@@ -42,7 +42,7 @@
 ## 🤝 I’m looking to collaborate on ...
 
 - Security research, website development, study resources, writing, and basics with HTML, CSS, JavaScript, Solidity, Git
-- Anything really just looking to gain experience. 
+- Anything really just looking to gain experience 
 - Not opposed to internships
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
