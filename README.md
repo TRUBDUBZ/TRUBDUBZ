@@ -1,15 +1,11 @@
 # Hello, World! 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
+ 
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=trubdubz)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
- 
- 
- 
- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ" alt="TRUBDUBZ" /></a> </p>
-
-## 🧙‍♂️ I’m interested in ...
+## 🧙‍♂️ **I’m interested in** ...
 
 - CompSci
 - Privacy / Anonymity 
@@ -20,8 +16,6 @@
 - CTFs / Bug Bounties / Pentesting
 - Cybersecurity
 - C++
-- Vim / Spacevim
-- Learning
 
 <a href="https://git.io/streak-stats"></a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham"/>
@@ -46,8 +40,6 @@
 ## 🤝 I’m looking to collaborate on ...
 
 - Security research, website development, study resources, writing, and basics with HTML, CSS, JavaScript, Solidity, Git
-- Anything really just looking to gain experience 
-- Not opposed to internships
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
