@@ -3,6 +3,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
+ 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonjpulikkottil" alt="jasonjpulikkottil" /></a> </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧙‍♂️ I’m interested in ...
