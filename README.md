@@ -9,17 +9,21 @@
 
 ## 🧙‍♂️ **I’m interested in** ...
 
-- CompSci
+- Network Sec
 - Privacy / Anonymity 
-- Hardening / Securing Devices
+- Pentesting
+- Python 
 - OSINT / GEOINT / SATCOM
-- Linux
-- BASH    
-- CTFs / Bug Bounties / Pentesting
-- Cybersecurity
+- SMS / Telecommunications
+- Kali Linux
+- Bash Scripting    
+- CTFs / Bug Bounties / Research
+- Cybersecurity 
+- Malware 
 - C++
 
 <a href="https://git.io/streak-stats"></a>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=gotham"/>
  
 ## 🧠 I’m currently learning ...  
