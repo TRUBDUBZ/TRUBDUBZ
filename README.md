@@ -2,9 +2,10 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
 </br>
+</br>
  ![image](https://user-images.githubusercontent.com/95402733/192120254-e36e07d4-84b1-4c5f-b1f7-ebdf12655904.png)
  </br>
- <a href="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ"></a><img align="center" src="https://github.com/ryo-ma/github-profile-trophy"/> 
+
 
 ## 🧙‍♂️ **I’m interested in** ...
 
