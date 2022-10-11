@@ -9,13 +9,13 @@
 
 ## 🧙‍♂️ **I’m interested in** ...
 
-- Network Sec
+- Networking
 - Privacy / Anonymity 
 - Pentesting
 - Python 
 - OSINT / GEOINT / SATCOM
 - SMS / Telecommunications
-- Kali Linux
+- Ubuntu
 - Bash Scripting    
 - CTFs / Bug Bounties / Research
 - Cybersecurity 
@@ -31,21 +31,20 @@
 - InfoSec
 - CompSci
 - Javascript / React / Redux / NodeJS / npm
-- Solidity / blockchain engineering 
+- Solidity / Blockchain development
 - C++
 - Web Pentesting
 - BurpSuite Academy
+- RoppersNetworking
 - Linux
 - Zsh & Bash 
-- Networking
-- #100DaysOfCode challenge on Twitter
  
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura"/>
 
 ## 🤝 I’m looking to collaborate on ...
 
-- Security research, website development, study resources, writing, and basics with HTML, CSS, JavaScript, Solidity, Git
+- Security research, website development, study resources, writing, and basics with HTML, CSS, JavaScript, Solidity, etc.
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
