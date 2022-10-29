@@ -53,7 +53,7 @@
   
   - [E-mail](https://protonmail.com) : **marcusdiedrich1@protonmail.com** 
 
-  - [Discord](https://discord.com) - **TRUBDUBZ#4053**
+  - [Discord](https://discord.com) : **TRUBDUBZ#4053**
 
   - [Twitter](https://twitter.com/marcusdiedrich1)
 
