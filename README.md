@@ -7,20 +7,15 @@
  </br>
 
 
-## 🧙‍♂️ **I’m interested in** ...
-
-- Networking
-- Privacy / Anonymity 
-- Pentesting
-- Python 
-- OSINT / GEOINT / SATCOM
-- SMS / Telecommunications
-- Ubuntu
-- Bash Scripting    
-- CTFs / Bug Bounties / Research
-- Cybersecurity 
-- Malware 
-- C++
+## 🧙‍♂️ I’m interested in ...
+ 
+  - Networking
+  - OSINT 
+  - Bash     
+  - CTFs 
+  - Research 
+  - Malware 
+  - C++
 
 <a href="https://git.io/streak-stats"></a>
 
@@ -28,33 +23,37 @@
  
 ## 🧠 I’m currently learning ...  
 
-- InfoSec
-- CompSci
-- Javascript / React / Redux / NodeJS / npm
-- Solidity / Blockchain development
-- C++
-- Web Pentesting
-- BurpSuite Academy
-- RoppersNetworking
-- Linux
-- Zsh & Bash 
+  - InfoSec
+  - CompSci
+  - Javascript / React / Redux / NodeJS 
+  - Solidity / Blockchain 
+  - C++
+  - Ropper's Networking Course
  
 <a href="https://github.com/anuraghazra/github-readme-stats"></a>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura"/>
 
 ## 🤝 I’m looking to collaborate on ...
 
-- Security research, website development, study resources, writing, and basics with HTML, CSS, JavaScript, Solidity, etc.
-
+  - Anything
+    - Security research
+    - Website development
+    - Study resources
+    - Writing
+    
 <a href="https://github.com/ryo-ma/github-profile-trophy"><a/>
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
 
 
 ## 📫 How to reach me ...
   
-- e-mail : **marcusdiedrich1@protonmail.com** 
-- Discord - **TRUBDUBZ#4053**
-- [Twitter](https://twitter.com/marcusdiedrich1)
+  - [E-mail](https://protonmail.com) : **marcusdiedrich1@protonmail.com** 
+
+  - [Discord](https://discord.com) - **TRUBDUBZ#4053**
+
+  - [Twitter](https://twitter.com/marcusdiedrich1)
 
 
 
