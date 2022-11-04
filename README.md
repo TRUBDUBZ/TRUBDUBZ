@@ -1,12 +1,8 @@
 # Hello, World! 
 
-[![@trubbers's Holopin board](https://holopin.me/trubbers)](https://holopin.io/@trubbers)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
-
-
 ![image](https://user-images.githubusercontent.com/95402733/192120254-e36e07d4-84b1-4c5f-b1f7-ebdf12655904.png)
+
+[![@trubbers's Holopin board](https://holopin.me/trubbers)](https://holopin.io/@trubbers)
 
 ## 🧙‍♂️ I’m interested in ...
  
@@ -58,4 +54,4 @@
   - [Twitter](https://twitter.com/marcusdiedrich1)
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=ocean_dark"/>
