@@ -21,13 +21,15 @@
  
 <img align src="https://github.com/anuraghazra/github-readme-stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=synthwave"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&show_icons=true&theme=aura&row=3&layout=compact"/>
         
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=synthwave&row=1&layout=compact"/>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=TRUBDUBZ&show_icons=true&theme=aura&row=1&layout=compact"/>
 
 </br>
 
 </br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=aura"/>
 
 ## 📫 How to reach me ...
   
@@ -37,4 +39,4 @@
 
 - [Twitter](https://twitter.com/marcusdiedrich1)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TRUBDUBZ&show_icons=true&theme=aura"/>
+
