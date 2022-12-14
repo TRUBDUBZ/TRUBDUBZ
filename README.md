@@ -13,7 +13,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRUBDUBZ&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=transparent&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
 
 ## 📫 How to reach me ...
   
