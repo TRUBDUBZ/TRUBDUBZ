@@ -7,12 +7,12 @@
 
 ## 🧠 I’m currently learning:
 
-- InfoSec
-- CompSc
-- Javascript / React / Redux / NodeJS 
-- Solidity / Blockchain 
+- Info Sec
+- Comp Sci
+- Javascript/React/Redux/NodeJS 
+- Solidity/Blockchain 
 - C++
-- Web Sec Pentesting 
+- Web Sec
 - Networking
  
 <a href="https://github-readme-streak-stats.herokuapp.com"></a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRUBDUBZ&show_icons=true&theme=aura&row=2&layout=small"/>
