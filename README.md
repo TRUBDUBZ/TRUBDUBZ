@@ -1,18 +1,17 @@
 # Howdy! 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&theme=tokyonight&Border=13DD57&Text=999999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 I’m currently learning:
 
-- Info Sec
-- Javascript/React/Redux/NodeJS 
-- Solidity/Blockchain 
+- Python
+- InfoSec
+- Javascript/React/Redux/NodeJS  
 - C++
-- Web Sec
+- WebSec
 - Networking
 
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=tokyonight&Ring=333333&Border=13DD57&Text=999999)](https://git.io/awesome-stats-card)
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=tokyonight&Border=13DD57&)](https://git.io/awesome-stats-card)
 
 ## 📫 How to reach me ...
   
