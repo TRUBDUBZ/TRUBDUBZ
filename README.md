@@ -20,3 +20,5 @@
 - [Twitter](https://twitter.com/marcusdiedrich1)
 
 [![@trubbers's Holopin board](https://holopin.me/trubbers)](https://holopin.io/@trubbers)
+
+![Operation Card - Manhunt](https://user-images.githubusercontent.com/95402733/211167134-1c684546-970f-44e8-9406-cf0b3bd8bc9c.png)
