@@ -13,7 +13,7 @@
 
 [![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=tokyonight&Border=13DD57&)](https://git.io/awesome-stats-card)
 
-<script src="https://tryhackme.com/badge/887143"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Merk0.png" alt="TryHackMe">
 
 ## 📫 How to reach me ...
   
