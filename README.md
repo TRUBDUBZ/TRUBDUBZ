@@ -1,6 +1,6 @@
 # Howdy! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUBDUBZ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trubdubz)](https://github.com/trubdubz/github-readme-stats)
 
 ## 🧠 I’m currently learning:
 
