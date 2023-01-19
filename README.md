@@ -11,7 +11,7 @@
 - WebSec
 - Networking
 
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?theme=tokyonight&Border=13DD57&)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Merk0.png" alt="TryHackMe">
 
