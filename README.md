@@ -1,12 +1,12 @@
-# Howdy! 
+# HellΩ
 
 ## 🧠 I’m currently learning:
 
+- Computer Science
+- Physics/Chemistry
 - Python
-- InfoSec
-- Javascript/React/Redux/NodeJS  
+- Cyber Security
 - C++
-- WebSec
 - Networking
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
