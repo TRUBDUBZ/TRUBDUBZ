@@ -14,9 +14,8 @@
 
 ## 📫 How to reach me ...
   
-- [E-mail](https://protonmail.com) : **marcusdiedrich1@protonmail.com** 
-- [Discord](https://discord.com) : **fectron#3591**
-- [Twitter](https://twitter.com/marcusdiedrich1)
+- [E-mail](https://protonmail.com) : **marcusdiedrich1@icloud.com** 
+- [Twitter](https://twitter.com/vacluum)
 
 [![@trubbers's Holopin board](https://holopin.me/trubbers)](https://holopin.io/@trubbers)
 
