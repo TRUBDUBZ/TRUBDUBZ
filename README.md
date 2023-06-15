@@ -3,7 +3,6 @@
 ## 🧠 I’m currently learning:
 
 - Computer Science
-- Physics/Chemistry
 - Python
 - Cyber Security
 - C++
