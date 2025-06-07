@@ -10,7 +10,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Merk0.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4802846" style='border:none;'></iframe>
 
 ## 📫 How to reach me ...
   
