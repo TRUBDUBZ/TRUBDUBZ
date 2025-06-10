@@ -4,8 +4,8 @@
 
 - Computer Science
 - Python
-- Cyber Security
-- C++
+- Pentesting
+- CTF
 - Networking
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TRUBDUBZ?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
